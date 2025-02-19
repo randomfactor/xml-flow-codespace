@@ -1,0 +1,17 @@
+{
+  "name": "xml-flow-example",
+  "version": "1.0.0",
+  "description": "A Node.js program to convert a large XML file using xml-flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "xml-flow": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
